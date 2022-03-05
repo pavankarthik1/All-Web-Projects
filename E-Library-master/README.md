@@ -33,6 +33,6 @@ A simple E-Library made from HTML, CSS and PHP. One can host this on their local
 
 ![e-library main](https://user-images.githubusercontent.com/25705483/28075088-07673986-6678-11e7-8c31-55aa2a3a2584.JPG)
 
-### License
+
 
 
