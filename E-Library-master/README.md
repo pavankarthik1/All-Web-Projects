@@ -35,6 +35,4 @@ A simple E-Library made from HTML, CSS and PHP. One can host this on their local
 
 ### License
 
-- MIT. Free Software, Hell Yeah!
-
 
