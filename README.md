@@ -1,6 +1,4 @@
 # All-Web-Projects
-# Introduction
-   This project will be able to detect the telugu characters 
 ## Technolies Used
     PHP
     HTML
