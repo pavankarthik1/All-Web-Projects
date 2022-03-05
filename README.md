@@ -1,5 +1,5 @@
 # All-Web-Projects
-## Technolies Used
+## Technogies Used
     PHP
     HTML
     CSS
