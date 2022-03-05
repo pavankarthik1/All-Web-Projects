@@ -20,7 +20,7 @@
 - Patient Login Functionalities
     - Patient can able to raise their new problem 
     - They can book appointment in the hospital
-    - 
+    
  
 
 
